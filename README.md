@@ -12,10 +12,10 @@ First clone the project:
 ```bash
 git clone https://github.com/hosein-1/file_converter.git
 ```
-Create a file named .env in your project directory and replace the values with those in the .env.dist file, or update them according to your project settings.
+Then, Create a file named .env in your project directory and replace the values with those in the .env.dist file, or update them according to your project settings.
 
 
-Then, run the project on Docker using the following command:
+Run the project on Docker using the following command:
 ```bash
 docker compose up --build
 ```
